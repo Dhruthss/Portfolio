@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+h1{
+    color: tomato;
+    font-size: 2em;
+}
+nav{
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+}
+nav li a{
+    text-decoration: none;
+    color: grey;
+    font-size: 20px;
+}
+nav li {
+    list-style: none;
+}
